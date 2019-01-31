@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Hotfix Request
 about: Create a report to help us improve
 title: 'Hotfix request: '
 labels: hotfix
@@ -14,7 +14,7 @@ assignees: ''
 * - [ ] Trial
 * - [ ] Factory
 
-- [ ] Approval by APO or Dev manager added by the approving person in this issue (See Approvers list [here](https://wiki.wdf.sap.corp/wiki/display/webapptoolkit/Hotfix+Process))
+- [ ] Approval by APO or Dev manager added by the approving person in this issue (See approvers list [here](https://wiki.wdf.sap.corp/wiki/display/webapptoolkit/Hotfix+Process))
 
 - [ ] Customer/internal incident number: <BCP/Jira incident link>
 Test status:
