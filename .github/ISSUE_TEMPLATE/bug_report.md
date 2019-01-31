@@ -7,32 +7,20 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+- [ ] Link to GitHub change
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Landscapes:**
+* - [ ] Canary
+* - [ ] Trial
+* - [ ] Factory
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+- [ ] Approval by APO or Dev manager added by the approving person in this issue (See Approvers list [here](https://wiki.wdf.sap.corp/wiki/display/webapptoolkit/Hotfix+Process))
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+- [ ] Customer/internal incident number: <BCP/Jira incident link>
+Test status:
+* Automated (e.g. Selenium) Tests <Passed/Not Passed>
+* Manual tests <NR/Passed/Not Passed>
+* Security scan <Passed/Not Passed/Approving Security Expert Name>
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+- [ ] Attach test results done prior to the deployment to the ticket (e.g. screenshot, link to Jenkins build)
+- [ ] Attach post deployment test results that were done on Factory (e.g. EU1 production)
